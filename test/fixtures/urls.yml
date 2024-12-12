@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  original_url: MyString
+  short_url: MyString
+  custom_alias: MyString
+  expiration_date: 2024-12-12 20:55:24
+  user: one
+
+two:
+  original_url: MyString
+  short_url: MyString
+  custom_alias: MyString
+  expiration_date: 2024-12-12 20:55:24
+  user: two
